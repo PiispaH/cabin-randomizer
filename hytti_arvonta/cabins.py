@@ -11,6 +11,6 @@ def cabins(n: int, names: list):
     shuffle(names)
     rooms = []
     for _ in range(n):
-        rooms.append(names[0:4])
+        rooms.append(names[:4])
         names = names[4:]
     return rooms

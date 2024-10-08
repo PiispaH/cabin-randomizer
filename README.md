@@ -1,5 +1,7 @@
 # The cabin randomizer
 
+Can be used to randomize people into cabins for cruises (four person cabins).
+
 ### Usage
 Example usage:
 
