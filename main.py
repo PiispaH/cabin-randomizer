@@ -2,7 +2,7 @@
 
 import sys
 
-from hytti_arvonta.cabins import cabins
+from cabin_randomizer.cabins import cabins
 
 
 def main(n_cabins: int, names: list):

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import unittest
-from hytti_arvonta.cabins import cabins
+from cabin_randomizer.cabins import cabins
 
 class TestHytit(unittest.TestCase):
     def test_names_are_unique(self):
