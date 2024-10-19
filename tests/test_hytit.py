@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import unittest
 from hytti_arvonta.cabins import cabins
 
