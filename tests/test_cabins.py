@@ -3,7 +3,7 @@
 import unittest
 from cabin_randomizer.cabins import cabins
 
-class TestHytit(unittest.TestCase):
+class TestCabins(unittest.TestCase):
     def test_names_are_unique(self):
         """Tests that the resulting lists still contain unuique names and that the number of names is correct."""
         group1, group2 = cabins(2, ["a", "b", "c", "d", "e", "f", "g", "h"])
